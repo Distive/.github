@@ -1,1 +1,1 @@
-# .github
+The self-sovereign communication channel
